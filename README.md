@@ -1,6 +1,7 @@
 # aprendecuidandote
 
 Proyecto creado con Flutter.
+Todavia esta por terminar es simplemente el comienzo.
 
 ## Getting Started
 

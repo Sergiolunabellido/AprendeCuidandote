@@ -1,16 +1,13 @@
 # aprendecuidandote
 
-A new Flutter project.
+Proyecto creado con Flutter.
+Todavia esta por terminar es simplemente el comienzo.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta aplicacion esta destinada a personas de tercera edad con dificultad de usar tecnologias 
+como telefonos y con problemas a la hora de comunicarse o recordar cosas.
+Esta aplicacion pretende ayudar a estas personas con opciones que les facilite la comunicacion
+con urgencias, familiares, medico, etc...
+asi tambien como poder saber recetas con ciertos ingredientes que ellos quieran si no saben alguna,
+o que les recuede cuando han de tomarse las pastillas que necesiten.

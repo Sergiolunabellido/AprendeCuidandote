@@ -1,4 +1,5 @@
 import 'package:aprendecuidandote/core/colores.dart';
+import 'package:aprendecuidandote/screens/contactos/funcionesContactos.dart';
 import 'package:flutter/material.dart';
 
 class Contactos extends StatelessWidget {
@@ -41,24 +42,8 @@ class Contactos extends StatelessWidget {
             // Aquí puedes agregar más widgets para mostrar los contactos
             GestureDetector(
               onTap: () {
-                print("object");
-                Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Container(
-                      height: 150,
-                      width: 150,
-                      decoration: BoxDecoration(
-                        border: Border.all(color: Colores.textColor, width: 4),
-                        borderRadius: BorderRadius.circular(100),
-                        color: Colors.grey,
-                        boxShadow: [
-                          BoxShadow(color: Colores.textColor, blurRadius: 10),
-                        ],
-                      ),
-                    ),
-                  ],
-                );
+                listaOpcionesContactos;
+                print("Añadir Contacto");
               },
               child: Container(
                 height: 150,

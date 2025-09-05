@@ -27,5 +27,5 @@ Future<void> insertarContacto(
     'nombre': nombre,
     'telefono': telefono,
     'imagen': imagen,
-  });
+  }, conflictAlgorithm: ConflictAlgorithm.replace);
 }
